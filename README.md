@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Vikram Singh</h1>
-<h3 align="center">A passionate Python full Stack developer</h3>
+<h3 align="center">A passionate Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiiiixd&label=Profile%20views&color=0e75b6&style=flat" alt="adiiiixd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiiiixd" alt="adiiiixd" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
-
-- 💬 Ask me about **HTML, CSS, Python, and JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, and React**
 
 - 📫 How to reach me **vikaditya119@gmail.com**
 
